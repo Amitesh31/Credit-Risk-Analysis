@@ -22,9 +22,9 @@ The primary aim is to understand which are the factors that are effecting more t
 The credit risk levels (MScores) are ranging from A to D (from A to B low credit risk, from C to D high credit risk).
 
 Different Jupyter Notebooks have been created for different tasks:
-- [Data cleansing and manipulation](/notebooks/0-data-cleansing.ipynb)
-- [Exploratory analysis](/notebooks/1-exploratory-analysis.ipynb)
-- [Machine Learning models](/notebooks/2-ml-models.ipynb)
+- Data cleansing and manipulation
+- Exploratory analysis
+- Machine Learning models
 
 # Datasets
 The main dataset contains the following features (from 2015 to 2020), regarding European companies:
