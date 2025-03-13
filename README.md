@@ -1,20 +1,10 @@
 # Credit Risk Analysis - Financial Data Science
 
-[![License](https://img.shields.io/badge/License-BSD_3-purple?style=for-the-badge&logo=FreeBSD)](LICENSE.md)
-![Views](https://komarev.com/ghpvc/?username=Credit-Risk-Analysis-GitHub&label=Views&style=for-the-badge&color=brightgreen)<br>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br>
-
 Credit analysis is a type of financial analysis that an investor or bond portfolio manager performs on companies, governments, municipalities, or any other debt-issuing entities to measure the issuer's ability to meet its debt obligations. Credit analysis seeks to identify the appropriate level of default risk associated with investing in that particular entity's debt instruments. 
 
 To judge a company’s ability to pay its debt, banks, bond investors, and analysts conduct credit analysis on the company. Using financial ratios, cash flow analysis, trend analysis, and financial projections, an analyst can evaluate a firm’s ability to pay its obligations. A review of credit scores and any collateral is also used to calculate the creditworthiness of a business. 
 
 The outcome of the credit analysis will determine what risk rating to assign the debt issuer or borrower. The risk rating, in turn, determines whether to extend credit or loan money to the borrowing entity and, if so, the amount to lend. <br><br>
-
-If you want to see the presentation, here's the link:
-- [.pdf presentation](/presentation/presentation.pdf)
 
 # Why credit risk is so relevant in finance?
 Financial institutions used credit risk analysis models to determine the probability of default of a potential borrower. 
@@ -53,15 +43,6 @@ The main dataset contains the following features (from 2015 to 2020), regarding 
 - **TAsset**: Total Assets, most commonly used in the context of a corporation, are defined as the assets owned by the entity that has an economic value whose benefits can be derived in the future
 
 Some other accessories datasets have been downloaded from [Kaggle](https://www.kaggle.com/) to extract other useful information to gain more effective insights.
-
-## Where the companies are placed?
-In the following figure you can get an idea on where the companies inside the main dataset are geographically located.
-
-<img src="./presentation/img/companies-locs.png"><br>
-
-# Contact
-In case you need some further details you can contact directly me. <br><br>
-<a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ***
 
