@@ -42,10 +42,3 @@ The main dataset contains the following features (from 2015 to 2020), regarding 
 - **ROE**: Return on Equity (ROE) is the measure of a company’s annual return (net income) divided by the value of its total shareholders’ equity, expressed as a percentage. <br> Alternatively, ROE can also be derived by dividing the firm’s dividend growth rate by its earnings retention rate
 - **TAsset**: Total Assets, most commonly used in the context of a corporation, are defined as the assets owned by the entity that has an economic value whose benefits can be derived in the future
 
-Some other accessories datasets have been downloaded from [Kaggle](https://www.kaggle.com/) to extract other useful information to gain more effective insights.
-
-***
-
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
